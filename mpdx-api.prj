@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://github.com/CruGlobal/mpdx-qa/tree/api-dev/mpdx-api</description>
+   <name>MPDX-API</name>
+   <tag></tag>
+   <UUID>bc7c1b30-0dd9-45f6-943b-ad150309e26c</UUID>
+   <migratedVersion>5.7.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>WEBSERVICE</type>
+</Project>
