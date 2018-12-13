@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
-   <description>https://github.com/CruGlobal/mpdx-qa/tree/api-dev/mpdx-api</description>
-   <name>MPDX-API</name>
+   <description>https://github.com/CruGlobal/mpdxqa/tree/master/mpdxqa-api</description>
+   <name>mpdxqa-api</name>
    <tag></tag>
    <UUID>bc7c1b30-0dd9-45f6-943b-ad150309e26c</UUID>
    <migratedVersion>5.7.0</migratedVersion>
